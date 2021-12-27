@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+    margin: 0;
+    scroll-behavior: smooth;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.nav {
+    padding: 0vw;
+}
+section {
+    width: 100vw;
+    height: 80vh;
+    overflow: hidden;
+}
+#section1 {
+  padding-top: 10vh;
+  width: 100vw;
+}
+#section2 {
+  padding: 10vw;
+  height: auto;
+}
+
+.texto{
+  width: 20vw;
+  margin: auto;
+  margin-top: 15vh;
+  justify-content: center;
+  align-content: center;
+}
